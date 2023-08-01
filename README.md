@@ -20,8 +20,6 @@ Arm & Shoulder Control: Implemented 16 channels Servo Driver I2C Interface for p
 
 Weight Sensing: Integrated a weight sensor with a 200 KG load cell to accurately detect when someone is standing on the deck.
 
-Code Repository: For a detailed look into the code and architecture, please refer to the GitHub repository.
-
 Fiverr Profile: https://www.fiverr.com/shamoilkazmi
 
 Upwork Referance: https://www.upwork.com/freelancers/~01468db99ff3b7ecc7?p=1577327454873186304
